@@ -18,7 +18,7 @@ The results are presented through thematic maps and an interactive ArcGIS Dashbo
 
 ## Data Source
 
-**GRID3 - NGA Health Facilities Access Risk Score per Ward
+GRID3 - NGA Health Facilities Access Risk Score per Ward
 
 ## Methodology
 
