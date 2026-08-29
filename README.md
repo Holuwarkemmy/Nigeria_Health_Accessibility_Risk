@@ -98,7 +98,7 @@ The interactive ArcGIS Dashboard allows users to explore health accessibility ri
 
 ![Dashboard](dashboard/nga_health_accessibility_dashboard.png)
 
-![Dashboard Link] 
+[Dashboard Link](https://www.arcgis.com/apps/dashboards/fe3796338e3d48b091afd7fb38d6c1a2#)
 
 ## Tools
 
