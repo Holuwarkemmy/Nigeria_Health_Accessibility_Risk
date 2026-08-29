@@ -114,4 +114,4 @@ The analysis, spatial processing, classification, mapping and dashboard developm
 
 ## Author
 
-![Saheedat Akanbi](https://github.com/Holuwarkemmy)
+[Saheedat Akanbi](https://github.com/Holuwarkemmy)
