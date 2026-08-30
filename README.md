@@ -2,23 +2,18 @@
 
 ## Overview
 
-This project presents a geospatial analysis of health accessibility risk across Nigeria at three administrative levels: Ward, Local Government Area (LGA), and State.
-
-The analysis uses the GRID3 health facility access risk dataset at ward level and aggregates the risk scores to LGA and State levels to examine broader spatial patterns.
-
-The results are presented through thematic maps and an interactive ArcGIS Dashboard.
+Health accessibility risk in Nigeria is not evenly distributed, and looking only at state-level averages can hide where the need is greatest. This project maps that risk across three administrative levels, from Ward up through Local Government Area (LGA) to State, using GRID3's ward-level health facility access risk scores as the base dataset. Ward scores are aggregated to LGA and State averages so the results can be compared across scales, with the full analysis presented through thematic maps and an interactive ArcGIS dashboard.
 
 ## Objectives
 
-- Visualise health accessibility risk across Nigerian wards.
-- Classify ward-level risk into five risk categories.
-- Calculate average health accessibility risk scores at LGA and State levels.
+- Map how health accessibility risk varies across Nigerian wards.
+- Classify risk into five categories at ward level, then aggregate to LGA and State averages using the same scale.
 - Identify the highest-risk LGAs and States.
-- Develop an interactive dashboard for exploring the results.
+- Make the results explorable through an interactive dashboard, not just static maps.
 
 ## Data Source
 
-GRID3 - NGA Health Facilities Access Risk Score per Ward
+Data comes from GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development), specifically the ward-level health facility access risk score dataset
 
 ## Methodology
 
@@ -39,6 +34,8 @@ The analysis followed these main steps:
 - Moderate Risk - 2.6 – <3.4 
 - High Risk - 3.4 – <4.2
 - Very High Risk - 4.2 – 5.0
+
+| Risk Level | Score Range ||---|---:|| Very Low Risk | 1.0 to <1.8 || Low Risk | 1.8 to <2.6 || Moderate Risk | 2.6 to <3.4 || High Risk | 3.4 to <4.2 || Very High Risk | 4.2 to 5.0 |
 
 ## Key Findings
 
