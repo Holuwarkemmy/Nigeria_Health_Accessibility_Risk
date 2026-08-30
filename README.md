@@ -35,8 +35,6 @@ The analysis followed these main steps:
 - High Risk - 3.4 – <4.2
 - Very High Risk - 4.2 – 5.0
 
-| Risk Level | Score Range ||---|---:|| Very Low Risk | 1.0 to <1.8 || Low Risk | 1.8 to <2.6 || Moderate Risk | 2.6 to <3.4 || High Risk | 3.4 to <4.2 || Very High Risk | 4.2 to 5.0 |
-
 ## Key Findings
 
 ### Ward Level
@@ -56,11 +54,11 @@ Overall, 17.91% of wards with available risk scores are classified as High or Ve
 
 The analysis covers 774 LGAs.
 
-- 356 LGAs - Very Low Risk
-- 150 LGAs - Low Risk
-- 168 LGAs - Moderate Risk
-- 76 LGAs  - High Risk
-- 24 LGAs  - Very High Risk
+- Very Low Risk - 356 (45.99%)
+- Low Risk -150 (19.38%)
+- Moderate Risk - 168 (21.71%)
+- High Risk - 76 (9.82%)
+- Very High Risk - 24 (3.10%)
 
 Therefore, 12.92% of LGAs are classified as High or Very High Risk.
 
@@ -68,10 +66,10 @@ Therefore, 12.92% of LGAs are classified as High or Very High Risk.
 
 The analysis covers 37 State-level administrative units, including the FCT.
 
-- 15 - Very Low Risk
-- 10 - Low Risk
-- 10 - Moderate Risk
-- 2  - High Risk
+- Very Low Risk - 15 (40.54%)
+- Low Risk - 10 (27.03%)
+- Moderate Risk - 10 (27.03%)
+- High Risk - 2 (5.41%)
 
 Bayelsa recorded the highest average State-level risk score at 4.17, followed by Zamfara at 3.5.
 
