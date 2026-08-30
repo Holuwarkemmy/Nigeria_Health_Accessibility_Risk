@@ -13,7 +13,7 @@ Health accessibility risk in Nigeria is not evenly distributed, and looking only
 
 ## Data Source
 
-Data comes from GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development), specifically the ward-level health facility access risk score dataset
+Data comes from GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development), specifically the ward-level health facility access risk score dataset.
 
 ## Methodology
 
